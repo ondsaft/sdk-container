@@ -128,5 +128,5 @@ then
 fi
 
 echo "*** Clean up base container ***"
-#docker stop $SDK_CONT
+docker stop $SDK_CONT
 
